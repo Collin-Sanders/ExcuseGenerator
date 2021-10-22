@@ -1,2 +1,2 @@
-# ExcuseGenerator
+# Excuse Generator
 Python Excuse Generator
